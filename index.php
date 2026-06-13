@@ -47,7 +47,7 @@ $categories = $category->getAll();
 
     <section class="hero">
         <div class="hero-content">
-            <div class="hero-badge">📚 <?php echo SITE_NAME; ?> - University Library Management System</div>
+            <div class="hero-badge">📚 University Library Management System</div>
             <h1>Your Gateway to <span class="highlight">Knowledge</span></h1>
             <p>Search, reserve, and borrow books from our extensive university library collection. Manage your reading journey all in one place.</p>
             
